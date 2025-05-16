@@ -4,7 +4,7 @@ Telegram .onion Link Extractor project:
 
 
 
-## 🔍 What It Does
+##  What It Does
 
 - Connects to a specified Telegram channel (e.g., `@toronionlinks`)
 - Parses recent messages for `.onion` (Tor) URLs
